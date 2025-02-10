@@ -1,4 +1,2 @@
 - Hi, I’m @leenaiwamoto !!
-- I’m interested in physics, specifically astrophysics and black hole evolution!
-- I’m currently learning python and arduino coding.
 - How to reach me through email is leenaiwamoto@gmail.com
